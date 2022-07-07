@@ -22,3 +22,9 @@ input{
     border: 3px solid #ccc;
     outline: none !important;
 }
+.valid {
+    border-color: rgb(28, 220, 28);
+}
+.invalid {
+    border-color: red;
+}
